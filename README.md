@@ -16,4 +16,4 @@ I love projects that aims to better people's lives. 🏠:
 - [Modern Wear Customer](https://modernwear-customerclient.web.app)
 - [World Central](https://world-72194.web.app)
 
-![Markkerss's github stats](https://github-readme-stats.vercel.app/api?username=markkerss&show_icons=true&theme=dark)
+![Markkerss's github stats](https://github-readme-stats.vercel.app/api?username=markkerss&show_icons=true&theme=radical)
