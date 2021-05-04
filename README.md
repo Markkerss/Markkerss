@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Markkerss/Markkerss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Markkerss](https://marco-laju.vercel.app) (17 y.o) ! 🥳:
 
-Here are some ideas to get you started:
+I love projects that aims to better people's lives. 🏠:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:page_with_curl: I'm currently learning:
+- React.js 
+- Vue.js
+- JavaScript
+- MongoDB
+
+:star: Here are some projects that I've worked on:
+- [RUKUN Mobile](https://expo.io/@markkerss/projects/rukun)
+- [PlaySudoku](https://expo.io/@markkerss/projects/PlaySudoku)
+- [Modern Wear Customer](https://modernwear-customerclient.web.app)
+- [World Central](https://world-72194.web.app)
+
+![Markkerss's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=markkerss)
