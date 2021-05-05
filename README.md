@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Markkerss](https://b-marco-laju.vercel.app) (17 y.o) ! 🥳
+I'm [Markkerss](https://b-marco-laju.vercel.app)! 🥳
 
 I love projects that aims to better people's lives. 🏠
 
